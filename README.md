@@ -118,7 +118,12 @@ What were the businesses that were thriving during the pandemic?
 
 Was there product that the US could not import/export to Canada, Mexico, and South and Central Mexico?
 
+Tableau storyboard:
 
+https://public.tableau.com/app/profile/david.valdez/viz/COVID19PandemicandUSTrade/Story1
+
+
+This storyboard doesn’t contain every step you took as part of the analysis, only those relevant to the final results.
 
 
 
